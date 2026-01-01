@@ -19,7 +19,7 @@ Welcome to my Data Structures and Algorithms repository! I am currently followin
 - [ ] *Step 13:* Trees (Binary Trees, BST)
 - [ ] *Step 14:* Graphs
 - [ ] *Step 15:* Dynamic Programming
-- [ ] *Step 16:* Tries
+- [ ] *Step 16:* Miscellaneous
 
 ## 📁 Repository Structure
 Each folder contains the problem statement, my solution, and notes on complexity:
