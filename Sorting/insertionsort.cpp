@@ -1,5 +1,5 @@
 /*Insertion sort
-     Core Method: BUilds the final sorted array one item at a time by picking
+     Core Method: Builds the final sorted array one item at a time by picking
                   elements from an unsorted portion & inserting them into their
                   correct position within a sorted portion 
      Time Complexity: (Avg/Worst_case)-->O(n) ; (Best_case)-->O(n^2)
@@ -29,5 +29,6 @@ int main(){
     for(int i=0;i<n;i++) cin>>arr[i];
     insertionsort(arr,n);
     for(int i=0;i<n;i++) cout<<arr[i]<<" ";
+
 
 }
