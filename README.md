@@ -4,7 +4,7 @@
 # 🚀 DSA Journey | Striver A to Z Sheet
 Welcome to my Data Structures and Algorithms repository! I am currently following the *Striver A to Z DSA Course* to build a rock-solid foundation in problem-solving.
 ## 📊 Progress Tracker
-- [ ] *Step 1:* Learn the Basics (C++, Math, Patterns)
+- [✓] *Step 1:* Learn the Basics (C++, Math, Patterns)
 - [✓] *Step 2:* Important Sorting Techniques
 - [ ] *Step 3:* Solve Problems on Arrays (Easy -> Medium -> Hard)
 - [ ] *Step 4:* Binary Search (1D, 2D, Search Space)
