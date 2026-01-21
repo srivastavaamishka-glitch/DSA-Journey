@@ -2,7 +2,7 @@
      Core Method: Builds the final sorted array one item at a time by picking
                   elements from an unsorted portion & inserting them into their
                   correct position within a sorted portion 
-     Time Complexity: (Avg/Worst_case)-->O(n) ; (Best_case)-->O(n^2)
+     Time Complexity: (Best_case)-->O(n) ; (Avg/Worst_case)-->O(n^2)
      Swapping: Zero swaps
      Stability: Stable(preserves order of equal items)
 */
@@ -32,3 +32,4 @@ int main(){
 
 
 }
+
