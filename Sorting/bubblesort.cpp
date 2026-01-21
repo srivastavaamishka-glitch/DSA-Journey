@@ -1,6 +1,6 @@
 /*Bubble Sort
      Core Method: Compares & swaps adjacent elements
-     Time Complexity: (Avg/Worst_case)-->O(n) ; (Best_case)-->O(n^2)
+     Time Complexity: (Best_case)-->O(n) ; (Avg/Worst_case)-->O(n^2)
      Swapping: Many swaps per pass
      Stability: Stable(preserves order of equal items)
 */
@@ -30,4 +30,5 @@ int main(){
     for(int i=0;i<n;i++) cin>>arr[i];
     bubblesort(arr,n);
     for(int i=0;i<n;i++) cout<<arr[i]<<" ";
+
 }
